@@ -1,0 +1,22 @@
+useful links to get help in project:
+
+https://api.jquery.com/id-selector/
+
+https://stackoverflow.com/questions/275931/how-do-you-make-an-element-flash-in-jquery
+
+https://stackoverflow.com/questions/9419263/how-to-play-audio
+
+https://api.jquery.com/click/
+
+ https://api.jquery.com/click/#click-handler
+
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/this
+
+https://api.jquery.com/attr
+
+https://api.jquery.com/addclass/
+
+https://stackoverflow.com/questions/17883692/how-to-set-time-delay-in-javascript
+
+
+
